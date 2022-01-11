@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.232,D:\SiteManager\StaticFrames\StaticFrame.WebPages.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,D:\SiteManager\Unit1.dfm=D:\SiteManager\StaticDialogs\StaticDlg.ViewMessage.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,D:\SiteManager\Unit1.dfm=D:\SiteManager\StaticDialogs\StaticDlg.BasicModalDialog.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,D:\SiteManager\StaticDialogs\StaticDlg.IncomingMessages.pas=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,D:\SiteManager\DAC.CSB.pas=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,D:\SiteManager\StaticDialogs\StaticDlg.IncomingMessages.dfm=D:\SiteManager\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,D:\SiteManager\RandomGenerator.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,D:\SiteManager\StaticDialogs\StaticDlg.PluginInfo.dfm=D:\SiteManager\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,D:\SiteManager\StaticFrames\StaticFrame.IncomingMessages.pas=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,D:\SiteManager\StaticFrames\StaticFrame.IncomingMessages.dfm=D:\SiteManager\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,D:\SiteManager\DAC.ADOHelper.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,D:\SiteManager\DAC.ADOHelper.pas=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,D:\SiteManager\StaticDialogs\StaticDlg.PluginInfo.pas=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,D:\SiteManager\Common.PipeList.pas=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,D:\SiteManager\StaticDialogs\StaticDlg.WebPages.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,D:\Projects\SiteManager\Unit1.dfm=D:\Projects\SiteManager\StaticFrames\StaticFrame.WebPages.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,D:\SiteManager\Thread.CacheReset.pas=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,D:\SiteManager\Unit1.pas=D:\SiteManager\Common.ApplicationSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,D:\Projects\SiteManager\Unit1.pas=D:\Projects\SiteManager\StaticFrames\StaticFrame.WebPages.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,=D:\Projects\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,=D:\Projects\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,D:\SiteManager\Unit1.pas=D:\SiteManager\StaticDialogs\StaticDlg.BasicModalDialog.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,D:\SiteManager\Unit1.pas=D:\SiteManager\StaticDialogs\StaticDlg.ViewMessage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,D:\SiteManager\Unit1.pas=D:\SiteManager\Common.LoginRegistry.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.193,D:\SiteManager\Unit1.pas=D:\SiteManager\CustomControl.AutoCompleteTextEdit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,D:\SiteManager\Unit1.pas=D:\SiteManager\CustomControl.AutoCompleteDropDown.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,=D:\SiteManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,=D:\SiteManager\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

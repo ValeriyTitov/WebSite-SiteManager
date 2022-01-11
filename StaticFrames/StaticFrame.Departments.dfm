@@ -1,0 +1,2 @@
+inherited StaticFrameDepartments: TStaticFrameDepartments
+end

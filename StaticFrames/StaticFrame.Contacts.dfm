@@ -1,0 +1,2 @@
+inherited StaticFrameContacts: TStaticFrameContacts
+end
